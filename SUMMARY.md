@@ -8,7 +8,7 @@
 * [Hosting](about/hosting.md)
 
 ## Docs
-
+* [Oauth](oauth.md)
 * [Creating an account](docs/create.md)
 * [Testing page](docs/testing-page.md)
 
