@@ -9,5 +9,5 @@
 
 ## Docs <a id="docs"></a>
 * [Documentation](docs/docs.md)
-### Users <1 id="docsusers"></a>
+### Users <a id="docsusers"></a>
 * [Creating an account](docs/users/create.md)
