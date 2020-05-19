@@ -18,8 +18,6 @@
 * [Editing a pack](packs/packs-edit.md)
 * [Deleting a pack](packs/packs-delete.md)
 
-## Docs
-
 ## Testing pages
 
 * [Testing page](testing-pages/testing-page.md)
