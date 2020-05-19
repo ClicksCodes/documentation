@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Connect My Pairs](main.md)
+* [Connect My Pairs](README.md)
 * [Untitled](connect-my-pairs.md)
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
