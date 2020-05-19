@@ -13,7 +13,7 @@
 * [Creating an account](docs/users/create.md)
 * [Deleting an account](docs/users/delete.md)
 
-### Testing pages
+## Testing pages
 * [Testing page](docs/testing-page.md)
 * [API example page](api-example-page.md)
 
