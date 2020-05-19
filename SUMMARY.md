@@ -11,6 +11,7 @@
 
 * [Oauth](docs/oauth.md)
 * [Creating an account](docs/users/create.md)
+* [Deleting an account](docs/users/delete.md)
 * [Testing page](docs/testing-page.md)
 * [API example page](api-example-page.md)
 * [Link page](link-page.md)
