@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Connect My Pairs](connect-my-pairs.md)
+* [Connect My Pairs](main.md)
+* [Untitled](connect-my-pairs.md)
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
 
