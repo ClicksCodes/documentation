@@ -1,14 +1,18 @@
 # Security
 
 ## Requests
-
-> All requests must be performed over HTTPS. Ensure HTTPS is used or the connection will be refused.
+{% hint style="warning" %}
+  All requests must be performed over HTTPS. Ensure HTTPS is used or the connection will be refused.
+{% endhint %}
 
 ## Users
-
-> All passwords are stored as a hash and salt, ensuring they are secure.
+{%hint style="success" %}
+  All passwords are stored as a hash and salt, ensuring they are secure.
+{% endhint %}
 
 ## Decks
 
-> All Decks are stored as plain text but need account verification to view private ones.
+{%hint style="info" %}
+  All Decks are stored as plain text but need account verification to view private ones.
+{% endhint %}
 
