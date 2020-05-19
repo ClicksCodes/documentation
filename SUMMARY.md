@@ -4,9 +4,9 @@
 
 ## About <a id="about"></a>
 
-* [Security](security.md)
-* [Hosting](hosting.md)
+* [Security](about/security.md)
+* [Hosting](abouthosting.md)
 
 ## Docs <a id="docs"></a>
 
-* [whatever](hmm.md)
+* [whatever](docs/hmm.md)
