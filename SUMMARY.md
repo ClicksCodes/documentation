@@ -20,14 +20,14 @@
 
 ## Testing pages
 
+* [FAQ](testing-pages/faq.md)
+* [Example of all API parameter types](testing-pages/example-of-all-api-parameter-types.md)
 * [Testing page](testing-pages/testing-page.md)
 * [API example page](testing-pages/api-example-page.md)
 * [Link page](testing-pages/link-page.md)
+* [Changelog](testing-pages/changelog.md)
 
 ## More...
 
-* [Changelog](more.../changelog.md)
-* [FAQ](more.../faq.md)
 * [Our Main Website](https://clicksminuteper.net)
-* [Example of all API parameter types](more.../example-of-all-api-parameter-types.md)
 
