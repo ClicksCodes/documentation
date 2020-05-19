@@ -50,7 +50,7 @@ You are not allowed to perform this action at this time.
 ```
 {
   "description": "Your IP address was blocked.",
-  "code": "406"
+  "code": "403"
 }
 ```
 {% endapi-method-response-example %}
