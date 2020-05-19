@@ -10,11 +10,10 @@
 ## Docs
 
 * [Oauth](docs/oauth.md)
-* [Accounts](#)
 * [Creating an account](docs/users/create.md)
 * [Deleting an account](docs/users/delete.md)
-* [Packs](#)
 * [Creating a pack](docs/packs/create.md)
+* [Editing a pack](docs/packs/edit.md)
 * [Deleting a pack](docs/packs/delete.md)
 
 ## Testing pages
