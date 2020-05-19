@@ -12,7 +12,7 @@ This endpoint allows you to edit a current packs.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter name="Name" type="string" required=false %}
+{% api-method-parameter name="Name" type="string" required=true %}
 The name of the pack to edit.
 {% endapi-method-parameter %}
 
@@ -51,6 +51,26 @@ The deck was created successfully.
   "code": "success",
   "description": "Deck was successfully edited."
 }
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=304 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
 ```
 {% endapi-method-response-example %}
 
