@@ -13,10 +13,10 @@ This endpoint allows you to delete a pack.
 {% api-method-parameter name="Authentication" type="string" required=true %}
 Authentication of the user deleting the pack.
 {% endapi-method-parameter %}
-{% api-method-parameter name="Name" type="string" requirement=true %}
+{% api-method-parameter name="Name" type="string" required=true %}
 The name of the pack to delete.
 {% endapi-method-parameter %}
-{% api-method-parameter name="Confirmation" type="integer" %}
+{% api-method-parameter name="Confirmation" type="integer" required=true %}
 Confirmation (`1`) to delete the pack. 
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
