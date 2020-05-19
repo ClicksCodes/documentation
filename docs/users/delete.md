@@ -33,7 +33,7 @@ User account was successfully deleted.
 ```
 {    
   "name": "Username",
-  "code": "200"
+  "code": "Success"
 }
 ```
 {% endapi-method-response-example %}
@@ -46,7 +46,7 @@ Syntax was not valid
 ```
 {    
   "name": "Username",
-  "code": "400"
+  "code": "invalid_syntax"
   "description": "Invalid syntax was given."
 }
 ```
@@ -60,7 +60,8 @@ Unauthorised
 ```
 {    
   "name": "Username",
-  "code": "401"
+  "code": "unauthorized",
+  "description": "You did not provide the correct details to delete the account"
 }
 ```
 {% endapi-method-response-example %}
@@ -73,10 +74,15 @@ Account does not exist
 ```
 {    
   "name": "Username",
-  "code": "410"
+  "code": "no_account",
+  "description": "The acocunt provided does not exist"
 }
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+{% hint style="danger" %}
+ Descriptions may not be exactly as listed here. Please use the code instead.
+{% endhint %}
