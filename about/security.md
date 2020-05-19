@@ -12,6 +12,10 @@ All requests must be performed over HTTPS. Ensure HTTPS is used or the connectio
 All passwords are stored as a hash and salt, ensuring they are secure.
 {% endhint %}
 
+{% hint style="warning" %}
+As a non-clicksminuteper application, you will need an oauth token to access the service. This can be further explained on the oauth page.
+{% endhint %}
+
 ## Decks
 
 {% hint style="info" %}

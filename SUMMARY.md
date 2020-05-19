@@ -7,14 +7,18 @@
 * [Security](about/security.md)
 * [Hosting](about/hosting.md)
 
-## Docs
+## Users
 
-* [Oauth](docs/oauth.md)
-* [Creating an account](docs/create.md)
-* [Deleting an account](docs/delete.md)
-* [Creating a pack](docs/packs-create.md)
-* [Editing a pack](docs/packs-edit.md)
-* [Deleting a pack](docs/packs-delete.md)
+* [Creating an account](users/create.md)
+* [Deleting an account](users/delete.md)
+
+## Packs
+
+* [Creating a pack](packs/packs-create.md)
+* [Editing a pack](packs/packs-edit.md)
+* [Deleting a pack](packs/packs-delete.md)
+
+## Docs
 
 ## Testing pages
 
