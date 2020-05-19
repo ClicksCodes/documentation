@@ -86,10 +86,6 @@ Pack does not exist.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% hint style="info" %}
- The questions and asnwers parameter can be left empty, creating a pack with no cards. This can be useful for reserving a deck name.
-{% endhint %}
-
 {% hint style="danger" %}
  Descriptions may not be exactly as listed here. Please use the code instead.
 {% endhint %}
