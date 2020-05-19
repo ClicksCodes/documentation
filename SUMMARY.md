@@ -12,7 +12,6 @@
 * [Oauth](docs/oauth.md)
 * [Creating an account](docs/users/create.md)
 * [Deleting an account](docs/users/delete.md)
-Packs
 * [Creating a pack](docs/packs/create.md)
 
 ## Testing pages
