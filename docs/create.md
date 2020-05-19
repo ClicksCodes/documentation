@@ -1,6 +1,6 @@
 # Creating an account
 
-{% api-method method="post" host="https://api.clicksminuteper.net/connectmypairs/users/" path="/user/:id/packs" %}
+{% api-method method="post" host="https://api.clicksminuteper.net" path="/connectmypairs/users/" %}
 {% api-method-summary %}
 Create Account
 {% endapi-method-summary %}
