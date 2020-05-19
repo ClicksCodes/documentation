@@ -14,4 +14,8 @@
 * [Testing page](docs/testing-page.md)
 * [API example page](api-example-page.md)
 * [Link page](link-page.md)
+* [Changelog](changelog.md)
+* [FAQ](faq.md)
+* [Untitled](untitled-1.md)
+* [Our Main Website](https://clicksminuteper.net)
 
