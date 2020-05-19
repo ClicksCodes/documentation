@@ -13,7 +13,7 @@
 * [Creating an account](docs/create.md)
 * [Deleting an account](docs/delete.md)
 * [Creating a pack](docs/create-1.md)
-* [Editing a pack](docs/editing-a-pack.md)
+* [Editing a pack](docs/edit.md)
 * [Deleting a pack](docs/delete-1.md)
 
 ## Testing pages
