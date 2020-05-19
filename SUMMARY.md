@@ -2,7 +2,8 @@
 
 * [Connect My Pairs](README.md)
 
-## About
+## About <a id="about"></a>
+
 * [Security](security.md)
 * [Hosting](hosting.md)
 
