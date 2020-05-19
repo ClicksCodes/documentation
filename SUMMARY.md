@@ -1,12 +1,11 @@
 # Table of contents
 
 * [Connect My Pairs](README.md)
-* [Untitled](connect-my-pairs.md)
-* [Untitled](untitled.md)
-* [Untitled](untitled-1.md)
 
-## Page Group <a id="custom-url"></a>
+## About
+* [Security](security.md)
+* [Hosting](hosting.md)
 
-* [Untitled](custom-url/untitled.md)
-* [Untitled](custom-url/untitled-2.md)
+## Docs <a id="docs"></a>
 
+* [whatever](hmm.md)
