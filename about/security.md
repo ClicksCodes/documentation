@@ -8,6 +8,6 @@
 
 > All passwords are stored as a hash and salt, ensuring they are secure. 
 
-## Packs
+## Decks
 
-> All packs are stored as plain text but need account verification to view private ones. 
+> All Decks are stored as plain text but need account verification to view private ones. 
