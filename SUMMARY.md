@@ -12,9 +12,9 @@
 * [Oauth](docs/oauth.md)
 * [Creating an account](docs/create.md)
 * [Deleting an account](docs/delete.md)
-* [Creating a pack](docs/create-1.md)
-* [Editing a pack](docs/edit.md)
-* [Deleting a pack](docs/delete-1.md)
+* [Creating a pack](docs/packs-create.md)
+* [Editing a pack](docs/packs-edit.md)
+* [Deleting a pack](docs/packs-delete.md)
 
 ## Testing pages
 
@@ -27,5 +27,5 @@
 * [Changelog](more.../changelog.md)
 * [FAQ](more.../faq.md)
 * [Our Main Website](https://clicksminuteper.net)
-* [Example of all API parameter types](example-of-all-api-parameter-types.md)
+* [Example of all API parameter types](more.../example-of-all-api-parameter-types.md)
 
