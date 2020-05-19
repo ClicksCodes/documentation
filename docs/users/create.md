@@ -14,7 +14,7 @@ This endpoint allows you to create a new user account.
 The username of the user creating the account.
 {% endapi-method-parameter %}
 {% api-method-parameter name="Privacy" type="integer" %}
-The default privacy setting of the user creating the account. `0` is default, `1` is unlisted, `2` is private.
+The default privacy setting of the user creating the account. `0`, public, is default, `1` is unlisted, `2` is private.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 {% endapi-method-request %}
