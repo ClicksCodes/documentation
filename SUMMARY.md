@@ -8,5 +8,6 @@
 * [Hosting](about/hosting.md)
 
 ## Docs <a id="docs"></a>
-
-* [whatever](docs/hmm.md)
+* [Documentation](docs/docs.md)
+### Users <1 id="docsusers"></a>
+* [Creating an account](docs/users/create.md)
