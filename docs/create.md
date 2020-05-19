@@ -28,8 +28,8 @@ User account was successfully created.
 {% endapi-method-response-example-description %}
 ```
 {    
-"name": "Username",    
-"privacy": "Privacy setting"
+  "name": "Username",    
+  "privacy": "Privacy setting"
 }
 ```
 {% endapi-method-response-example %}
