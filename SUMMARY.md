@@ -9,6 +9,6 @@
 
 ## Docs
 
-* [Creating an account](docs/creating-an-account.md)
+* [Creating an account](docs/users/create.md)
 * [Testing page](testing-page.md)
 
