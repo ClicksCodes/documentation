@@ -2,10 +2,13 @@
 
 * [Connect My Pairs](README.md)
 
-## About <a id="about"></a>
+## About
 
 * [Security](about/security.md)
 * [Hosting](about/hosting.md)
 
-## Docs <a id="docs"></a>
-* [Creating an account](docs/users/create.md)
+## Docs
+
+* [Creating an account](docs/creating-an-account.md)
+* [Testing page](testing-page.md)
+

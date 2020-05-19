@@ -6,8 +6,9 @@
 
 ## Users
 
-> All passwords are stored as a hash and salt, ensuring they are secure. 
+> All passwords are stored as a hash and salt, ensuring they are secure.
 
 ## Decks
 
-> All Decks are stored as plain text but need account verification to view private ones. 
+> All Decks are stored as plain text but need account verification to view private ones.
+
