@@ -5,11 +5,3 @@
 Connect My Pairs is a card hosting service by [**Clicks Minute Per**](https://clicksminuteper.net) - Designed for games with custom card decks.
 
 By making use of the [**RESTful API**](https://restfulapi.net/), you can host your own decks avaliable to specific users, unlisted, or publicly.
-
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-  {% hint style="warning" %}
-   Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-  {% endhint %}
-{% endhint %}
