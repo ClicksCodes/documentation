@@ -19,9 +19,7 @@ The authentication token of the users account to delete.
 {% api-method-parameter name="Confirmation" type="integer" required=true %}
 A `1` to confirm the deletion of the account.
 {% endapi-method-parameter %}
-
 {% endapi-method-headers %}
-
 {% endapi-method-request %}
 
 {% api-method-response %}
@@ -30,7 +28,7 @@ A `1` to confirm the deletion of the account.
 User account was successfully deleted.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    
   "name": "Username",
   "code": "Success"
@@ -43,7 +41,7 @@ User account was successfully deleted.
 Syntax was not valid
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    
   "name": "Username",
   "code": "invalid_syntax"
@@ -57,7 +55,7 @@ Syntax was not valid
 Unauthorised
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    
   "name": "Username",
   "code": "unauthorized",
@@ -71,7 +69,7 @@ Unauthorised
 Account does not exist
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    
   "name": "Username",
   "code": "no_account",
@@ -84,5 +82,6 @@ Account does not exist
 {% endapi-method %}
 
 {% hint style="danger" %}
- Descriptions may not be exactly as listed here. Please use the code instead.
+Descriptions may not be exactly as listed here. Please use the code instead.
 {% endhint %}
+

@@ -10,19 +10,22 @@
 ## Docs
 
 * [Oauth](docs/oauth.md)
-* [Creating an account](docs/users/create.md)
-* [Deleting an account](docs/users/delete.md)
-* [Creating a pack](docs/packs/create.md)
-* [Editing a pack](docs/packs/edit.md)
-* [Deleting a pack](docs/packs/delete.md)
+* [Creating an account](docs/create.md)
+* [Deleting an account](docs/delete.md)
+* [Creating a pack](docs/create-1.md)
+* [Editing a pack](docs/editing-a-pack.md)
+* [Deleting a pack](docs/delete-1.md)
 
 ## Testing pages
-* [Testing page](docs/testing-page.md)
-* [API example page](api-example-page.md)
-* [Link page](link-page.md)
+
+* [Testing page](testing-pages/testing-page.md)
+* [API example page](testing-pages/api-example-page.md)
+* [Link page](testing-pages/link-page.md)
 
 ## More...
-* [Changelog](changelog.md)
-* [FAQ](faq.md)
+
+* [Changelog](more.../changelog.md)
+* [FAQ](more.../faq.md)
 * [Our Main Website](https://clicksminuteper.net)
+* [Example of all API parameter types](example-of-all-api-parameter-types.md)
 
