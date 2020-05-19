@@ -13,7 +13,7 @@ This endpoint allows you to delete a user account.
 {% api-method-parameter name="Authentication" type="string" required=true %}
 The authentication token of the users account to delete.
 {% endapi-method-parameter %}
-{% api-method-parameter name="Confirmation" type="integer" %}
+{% api-method-parameter name="Confirmation" type="integer" required=true %}
 A `1` to confirm the deletion of the account.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
