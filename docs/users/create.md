@@ -25,8 +25,10 @@ User account was successfully created.
 {% endapi-method-response-example-description %}
 ```
 {    
-  "name": "Username",    
-  "privacy": "Privacy setting"
+  "code": "success",
+  "description": "User account was successfully created."
+  "name": "Username",
+  "privacy": 0
 }
 ```
 {% endapi-method-response-example %}
@@ -36,25 +38,11 @@ Syntax was not valid
 {% endapi-method-response-example-description %}
 ```
 {    
-  "name": "Username",    
-  "privacy": "Privacy setting",
-  "code": "400"
-  "description": "Privacy was invalid"
+  "code": "invalid_privacy" or "invalid_username",
+  "description": "Privacy was an invalid integer."
 }
 ```
 {% endapi-method-response-example %}
-{% api-method-response-example httpCode=403 %}
-{% api-method-response-example-description %}
-You are not allowed to perform this action at this time.
-{% endapi-method-response-example-description %}
-```
-{
-  "description": "Your IP address was blocked.",
-  "code": "403"
-}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
 {% api-method-response-example httpCode=409 %}
 {% api-method-response-example-description %}
 Name already in use.
@@ -69,3 +57,7 @@ Name already in use.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+{% hint style="danger" %}
+ Descriptions may not be exactly as listed here. Please use the code instead.
+{% endhint %}
