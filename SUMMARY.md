@@ -16,6 +16,7 @@
 
 * [Creating a pack](packs/packs-create.md)
 * [Editing a pack](packs/packs-edit.md)
+* [Get a pack](packs/packs-get.md)
 * [Deleting a pack](packs/packs-delete.md)
 
 ## Testing pages
