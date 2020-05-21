@@ -1,6 +1,6 @@
 # Get all packs by a user
 
-{% api-method method="get" host="https://cpi.clicksminuteper.net" path="/users/:id/get" %}
+{% api-method method="get" host="https://api.clicksminuteper.net" path="/users/:id/get" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
@@ -25,7 +25,7 @@ Authentication to get private packs.
 {% endapi-method-request %}
 
 {% api-method-response %}
-{% api-method-response-example httpCode=201 %}
+{% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
 Packs retrieved successfully.
 {% endapi-method-response-example-description %}
