@@ -10,7 +10,7 @@
 ## Users
 
 * [Creating an account](users/create.md)
-* [Get packs](users/packs-get.md)
+* [Get packs](users/get-packs.md)
 * [Deleting an account](users/delete.md)
 
 ## Packs
