@@ -1,6 +1,6 @@
 # Get all packs by a user
 
-{% api-method method="get" host="https://api.clicksminuteper.net" path="/users/:id/get" %}
+{% api-method method="get" host="https://api.clicksminuteper.net/connectmypairs" path="/users/:id/get" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
