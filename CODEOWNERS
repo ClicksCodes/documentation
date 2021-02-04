@@ -1,2 +1,5 @@
-/CODEOWNERS  @clicksminuteper/owners
-/leadership/ @clicksminuteper/owners
+*                     @clicksminuteper/owners
+# By default, the leadership own all policies
+
+/CODEOWNERS           @clicksminuteper/owners
+/leadership/          @clicksminuteper/owners
