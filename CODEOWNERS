@@ -3,3 +3,4 @@
 
 /CODEOWNERS           @clicksminuteper/owners
 /leadership/          @clicksminuteper/owners
+# The leadership explicity own this file and all files inside the leadership directory
