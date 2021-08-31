@@ -143,4 +143,4 @@ A dictionary of options
 ```
 `KEY` - An integer `0 <= n <= 24`
 
-`VALUE` - `["title: str, 1 <= n <= 25", "description: str, 0 <= n <= 100"]`
+`VALUE` - `["title: str, 1 <= n <= 100", "description: str, 0 <= n <= 100"]`
