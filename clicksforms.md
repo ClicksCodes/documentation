@@ -2,6 +2,7 @@
 [Invite](https://discord.com/api/oauth2/authorize?client_id=805392054678192169&permissions=2416307200&scope=bot%20applications.commands)
 
 ## Index
+
 Name                      | Description
 --------------------------|----------------------------
 [Endpoints](#endpoints)   | The list of endpoints
@@ -9,6 +10,7 @@ Name                      | Description
 
 
 ## Endpoints
+
 Method | Endpoint                   | Request data
 -------|----------------------------|---------------------------------------------------------------------
 GET    | [`/`](#root)               |
