@@ -89,6 +89,7 @@ Name          | Optional | Type                            | Default | Descripti
 `title`       | False    | `str`                           |         | The title of the question
 `description` | True     | `str`                           | `None`  | The description of the question
 `colour`      | False    | [`colourString`](#colourString) |         | The colour of the question embed
+`required`    | False    | `bool`                          | `True`  | If the question is required or not
 `options`     | False    | [`questionData`](#questionData) |         | The question specific data
 
 #### QuestionType
