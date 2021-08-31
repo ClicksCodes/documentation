@@ -2,20 +2,20 @@
 [Invite](https://discord.com/api/oauth2/authorize?client_id=805392054678192169&permissions=2416307200&scope=bot%20applications.commands)
 
 ## Index
-Name | Description
--|-
-[Endpoints](#endpoints) | The list of endpoints
+Name                      | Description
+--------------------------|----------------------------
+[Endpoints](#endpoints)   | The list of endpoints
 [Structures](#structures) | How to form data structures
 
 
 ## Endpoints
-Method | Endpoint | Request data
--|-|-
-GET  | [`/`](#root)               |
-GET  | [`/forms`](#forms)         | `token: str` `guild: int`
-GET  | [`/responses`](#responses) | `token: str` `guild: int`
-GET  | [`/in/{guild}`](#inguild)  |
-POST | [`/upload`](#upload)       | `OPTIONAL token: str` `service: str` `service_url: str` `data: JSON`
+Method | Endpoint                   | Request data
+-------|----------------------------|---------------------------------------------------------------------
+GET    | [`/`](#root)               |
+GET    | [`/forms`](#forms)         | `token: str` `guild: int`
+GET    | [`/responses`](#responses) | `token: str` `guild: int`
+GET    | [`/in/{guild}`](#inguild)  |
+POST   | [`/upload`](#upload)       | `OPTIONAL token: str` `service: str` `service_url: str` `data: JSON`
 
 -----
 
