@@ -125,7 +125,7 @@ Question type      | Arguments
 -------------------|-------------------------------------------------------------------------------------------------------------
 `text`             | `min: int >= 1` `max: int <= 2000`
 `number`           | `min: int >= 2^32 ` `max: int <= 2^32`
-`multichoice`      | `min: int >= 1` `max: int <= number of options` `options: [{MultipleChoiceOptions}](#MultipleChoiceOptions)`
+`multichoice`      | `min: int >= 1` `max: int <= number of options` [`options: MultipleChoiceOptions`](#MultipleChoiceOptions)
 `fileupload`       | None
 `time`             | None
 `date`             | None
@@ -142,4 +142,5 @@ A dictionary of options
 }
 ```
 `KEY` - An integer `0 <= n <= 24`
+
 `VALUE` - `["title: str, 1 <= n <= 25", "description: str, 0 <= n <= 100"]`
